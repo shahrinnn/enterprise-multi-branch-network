@@ -23,15 +23,15 @@ The four branch routers are interconnected through a WAN ring:
 
 ## Network Topology
 
-The complete network consists of four interconnected branch offices connected through a routed WAN. Each branch contains departmental LANs and dedicated network resources.
+The following topology illustrates the complete four-branch enterprise network and the WAN connectivity between the branch locations.
 
-![Complete Enterprise Network Topology](network-topology.png)
+![Complete Enterprise Network Topology](network-topology_.png)
 
-### Penang Branch
+### Penang Branch Topology
 
-The Penang branch demonstrates the internal branch architecture, including departmental switches, end devices, wireless connectivity, server resources, and connectivity to the branch router.
+The Penang branch includes departmental LANs, end devices, server resources, wireless connectivity, and a branch router providing connectivity to the wider enterprise network.
 
-![Penang Branch Topology](penang-branch-topology.png)
+![Penang Branch Topology](penang-branch-topology_.png)
 
 ## IP Addressing & VLSM
 
