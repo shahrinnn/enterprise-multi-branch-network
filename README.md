@@ -25,7 +25,7 @@ The four branch routers are interconnected through a WAN ring:
 
 The following topology illustrates the complete four-branch enterprise network and the WAN connectivity between the branch locations.
 
-![Complete Enterprise Network Topology](network-topology_.png)
+![Complete Enterprise Network Topology](network-topology.png)
 
 ### Penang Branch Topology
 
