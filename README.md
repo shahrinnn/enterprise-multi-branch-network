@@ -2,18 +2,6 @@
 
 A four-branch enterprise network designed and simulated in Cisco Packet Tracer, demonstrating structured LAN/WAN architecture, VLSM-based IPv4 addressing, static routing, and end-to-end network connectivity.
 
-## Network Topology
-
-![SkyNetix Enterprise Network Topology](network-topology.png)
-
-*Complete four-branch enterprise network topology.*
-
-### Penang Branch
-
-![Penang Branch Network Topology](penang-branch-topology.png)
-
-*Detailed view of the Penang branch network.*
-
 ## Project Overview
 
 SkyNetix connects four geographically separated branch offices through a routed WAN:
@@ -32,6 +20,18 @@ The network uses a star-based LAN structure within each branch. End devices conn
 The four branch routers are interconnected through a WAN ring:
 
 `Kuala Lumpur → Penang → Johor Bahru → Kota Kinabalu → Kuala Lumpur`
+
+## Network Topology
+
+The complete network consists of four interconnected branch offices connected through a routed WAN. Each branch contains departmental LANs and dedicated network resources.
+
+![Complete Enterprise Network Topology](network-topology.png)
+
+### Penang Branch
+
+The Penang branch demonstrates the internal branch architecture, including departmental switches, end devices, wireless connectivity, server resources, and connectivity to the branch router.
+
+![Penang Branch Topology](penang-branch-topology.png)
 
 ## IP Addressing & VLSM
 
